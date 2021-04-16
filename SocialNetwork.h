@@ -5,7 +5,7 @@
  Auteur(s)   : Dylan Canton, Mélodie Ohan, Yanik lange
  Date        : 24.10.2020
 
- But         : Mise à disposition d'un librairie permettant d'ajouter un abonnement, 
+ But         : Mise à disposition d'une librairie permettant d'ajouter un abonnement, 
                récupérer la liste des abonnés ou des abonnements d'une personne.
                la librairie permet également de dresser le cercle de relationS 
                d'une personne. Cette librairie est basé sur SymbolGraph et
